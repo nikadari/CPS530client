@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/CPS530client/static/css/main.72363ab3.chunk.css",
-    "main.js": "/CPS530client/static/js/main.6337d691.chunk.js",
-    "main.js.map": "/CPS530client/static/js/main.6337d691.chunk.js.map",
-    "runtime-main.js": "/CPS530client/static/js/runtime-main.12a21512.js",
-    "runtime-main.js.map": "/CPS530client/static/js/runtime-main.12a21512.js.map",
-    "static/js/2.579a45c9.chunk.js": "/CPS530client/static/js/2.579a45c9.chunk.js",
-    "static/js/2.579a45c9.chunk.js.map": "/CPS530client/static/js/2.579a45c9.chunk.js.map",
-    "static/js/3.c55feabb.chunk.js": "/CPS530client/static/js/3.c55feabb.chunk.js",
-    "static/js/3.c55feabb.chunk.js.map": "/CPS530client/static/js/3.c55feabb.chunk.js.map",
+    "main.css": "/CPS530client/static/css/main.224dad03.chunk.css",
+    "main.js": "/CPS530client/static/js/main.679c2c2d.chunk.js",
+    "main.js.map": "/CPS530client/static/js/main.679c2c2d.chunk.js.map",
+    "runtime-main.js": "/CPS530client/static/js/runtime-main.fe2731b7.js",
+    "runtime-main.js.map": "/CPS530client/static/js/runtime-main.fe2731b7.js.map",
+    "static/js/2.9fb9babb.chunk.js": "/CPS530client/static/js/2.9fb9babb.chunk.js",
+    "static/js/2.9fb9babb.chunk.js.map": "/CPS530client/static/js/2.9fb9babb.chunk.js.map",
+    "static/js/3.ed9a9b97.chunk.js": "/CPS530client/static/js/3.ed9a9b97.chunk.js",
+    "static/js/3.ed9a9b97.chunk.js.map": "/CPS530client/static/js/3.ed9a9b97.chunk.js.map",
     "index.html": "/CPS530client/index.html",
-    "static/css/main.72363ab3.chunk.css.map": "/CPS530client/static/css/main.72363ab3.chunk.css.map",
-    "static/js/2.579a45c9.chunk.js.LICENSE.txt": "/CPS530client/static/js/2.579a45c9.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/CPS530client/static/media/logo.6ce24c58.svg"
+    "static/css/main.224dad03.chunk.css.map": "/CPS530client/static/css/main.224dad03.chunk.css.map",
+    "static/js/2.9fb9babb.chunk.js.LICENSE.txt": "/CPS530client/static/js/2.9fb9babb.chunk.js.LICENSE.txt",
+    "static/media/avar1.32caba95.jpg": "/CPS530client/static/media/avar1.32caba95.jpg",
+    "static/media/avatar2.46c9b746.jpg": "/CPS530client/static/media/avatar2.46c9b746.jpg",
+    "static/media/avatar3.290eda58.png": "/CPS530client/static/media/avatar3.290eda58.png",
+    "static/media/bunny.9ec884d3.jpg": "/CPS530client/static/media/bunny.9ec884d3.jpg",
+    "static/media/coffee picture.27714ade.jpg": "/CPS530client/static/media/coffee picture.27714ade.jpg",
+    "static/media/dog.cba0fc6a.jpg": "/CPS530client/static/media/dog.cba0fc6a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.12a21512.js",
-    "static/js/2.579a45c9.chunk.js",
-    "static/css/main.72363ab3.chunk.css",
-    "static/js/main.6337d691.chunk.js"
+    "static/js/runtime-main.fe2731b7.js",
+    "static/js/2.9fb9babb.chunk.js",
+    "static/css/main.224dad03.chunk.css",
+    "static/js/main.679c2c2d.chunk.js"
   ]
 }
