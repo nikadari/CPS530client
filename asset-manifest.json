@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CPS530client/static/css/main.a617e044.chunk.css",
+    "main.js": "/CPS530client/static/js/main.c93268c0.chunk.js",
+    "main.js.map": "/CPS530client/static/js/main.c93268c0.chunk.js.map",
+    "runtime-main.js": "/CPS530client/static/js/runtime-main.922ea068.js",
+    "runtime-main.js.map": "/CPS530client/static/js/runtime-main.922ea068.js.map",
+    "static/js/2.bea0a952.chunk.js": "/CPS530client/static/js/2.bea0a952.chunk.js",
+    "static/js/2.bea0a952.chunk.js.map": "/CPS530client/static/js/2.bea0a952.chunk.js.map",
+    "static/js/3.3108c088.chunk.js": "/CPS530client/static/js/3.3108c088.chunk.js",
+    "static/js/3.3108c088.chunk.js.map": "/CPS530client/static/js/3.3108c088.chunk.js.map",
+    "index.html": "/CPS530client/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/CPS530client/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.bea0a952.chunk.js.LICENSE.txt": "/CPS530client/static/js/2.bea0a952.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/CPS530client/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.922ea068.js",
+    "static/js/2.bea0a952.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.c93268c0.chunk.js"
+  ]
+}
